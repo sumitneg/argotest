@@ -1,2 +1,2 @@
-# argotest
+# Argotest
 Testing of Argocd
