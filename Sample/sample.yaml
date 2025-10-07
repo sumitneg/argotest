@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: guestbook
-          image: docker.io/google-samples/gb-frontend:v5
+          image: nginx:latest
           ports:
             - containerPort: 3000
 
