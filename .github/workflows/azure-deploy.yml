@@ -1,5 +1,9 @@
 name: Deploy Azure Infra (Service Principal Auth)
 
+permissions:
+  id-token: write
+  contents: read
+
 on:
   push:
     branches:
